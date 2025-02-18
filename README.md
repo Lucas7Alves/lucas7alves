@@ -1,6 +1,9 @@
-<h1 align="left">Hey 👋🏽 What's up?
-  <hr>
-<p align="left">Me chamo Lucas, estudante de Análise e desenvolvimento de sistemas. Aprendendo cada dia mais sobre desenvolvimento Back-end e desenvolvimento Front-end</p>
+<h1 align="left">Hey 👋🏽 What's up?</h1>
+<hr>
+<p align="left">
+  Me chamo Lucas, estudante de Análise e Desenvolvimento de Sistemas. Aprendendo cada dia mais sobre desenvolvimento Back-end e Front-end.
+</p>
+
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
