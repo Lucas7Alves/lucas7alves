@@ -1,23 +1,14 @@
-<h2 align="left">Olá! Eu sou Lucas, bem vindo ao meu perfil, sou do Brasil</h2>
-
-###
+<h1 align="left">Hey 👋🏽 What's up?
+  <hr>
+<p align="left">Me chamo Lucas, estudante de Análise e desenvolvimento de sistemas. Aprendendo cada dia mais sobre desenvolvimento Back-end e desenvolvimento Front-end</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas7Alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas7Alves&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="325" src="https://cdna.artstation.com/p/assets/images/images/025/249/366/original/lennart-butz-ukiyo2.gif?1585180234"  />
-</div>
-
-###
 
 <p align="left">Habilidades</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -31,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js js"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/mds_l.ucas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,11 +31,8 @@
   </a>
 </div>
 
-###
 
 <p align="left">Ferramentas</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
